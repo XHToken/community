@@ -1,0 +1,30 @@
+version: 2
+updates:
+  - package-ecosystem: gomod
+    directory: /scripts
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 2
+    commit-message:
+      prefix: "chore(deps):"
+    reviewers:
+      - "dongjiang1989"
+      - "FenjuFu"
+      - "scguoi"
+    groups:
+      go-minor-patch:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+    groups:
+      github-actions-deps:
+        applies-to: version-updates
+        patterns:
+          - "*"
