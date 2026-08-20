@@ -26,6 +26,12 @@ If you have any question, feel free to reach out to us in the following ways:
 - GitHub Issues: https://github.com/XHToken/community/issues
 - GitHub Discussions: https://github.com/XHToken/community/discussions
 
+You can also find us on the following platforms:
+
+[![Slack](https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white)](https://join.slack.com/t/tokenspark/shared_invite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/kTDE2Hg8aw)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@XHToken)
+
 ## Contribute
 
 We welcome contributions of all kinds — code, documentation, bug reports, and more. To get started:
