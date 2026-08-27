@@ -28,6 +28,8 @@ If you have any question, feel free to reach out to us in the following ways:
 
 You can also find us on the following platforms:
 
+<div align="center">
+  
 [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white)](https://join.slack.com/t/tokenspark/shared_invite/zt-432qf8l2f-5~dLyXv8uETr0P0UuC07nw)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/kTDE2Hg8aw)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@XHToken)
@@ -37,9 +39,13 @@ You can also find us on the following platforms:
 [![Zhihu](https://img.shields.io/badge/Zhihu-Follow-0084FF?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhiikz7qh7m)
 [![WeChat](https://img.shields.io/badge/WeChat-Join-07C160?logo=wechat&logoColor=white)](docs/images/xhtoken-wechat.jpg)
 
+</div>
+
 To join our WeChat / WeCom (企业微信) group, scan the QR code below:
 
-<img src="docs/images/xhtoken-wechat.jpg" width="220" alt="XHToken WeChat group QR code">
+<div align="center">
+  <img src="docs/images/xhtoken-wechat.jpg" width="220" alt="XHToken WeChat group QR code">
+</div>
 
 ## Contribute
 
